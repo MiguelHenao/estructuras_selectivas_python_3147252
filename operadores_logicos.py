@@ -11,5 +11,5 @@ y = not True
 print("el resultado de operador con not es",y)
 
 #ejemlo 2:operador and
-y=True and True
+y=False and True
 print("El resultado de operar con and es", y)
